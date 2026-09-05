@@ -348,14 +348,12 @@
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "BOU (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Elanga",
      "poeng": 0,
      "posisjon": 8,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -932,7 +930,7 @@
    ],
    "chip": null,
    "fornavn": "Tobias",
-   "gw_poeng": 0,
+   "gw_poeng": 1,
    "har_beste_gw": false,
    "har_verste_gw": true,
    "kaptein": "Cherki",
@@ -1054,14 +1052,12 @@
     {
      "kaptein": false,
      "lag_kode": 91,
-     "motstander": [
-      "NEW (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Evanilson",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 9,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -1658,7 +1654,7 @@
    ],
    "chip": null,
    "fornavn": "Per Olav",
-   "gw_poeng": 3,
+   "gw_poeng": 5,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Cunha",
@@ -1682,14 +1678,12 @@
     {
      "kaptein": false,
      "lag_kode": 91,
-     "motstander": [
-      "NEW (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Truffert",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 2,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1806,28 +1800,24 @@
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "BOU (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Wissa",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 11,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 91,
-     "motstander": [
-      "NEW (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Petrović",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 12,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
