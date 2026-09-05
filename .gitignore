@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+# Genereres av bygget, lastes opp som Pages-artifact - committes aldri
+dist/
+kode/
+
+# Loese bildefiler i rota spores ikke - bevisste assets legges i design/
+*.jpg
+*.jpeg
+*.png
+!design/*
