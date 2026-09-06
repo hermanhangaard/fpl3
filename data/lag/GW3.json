@@ -10,7 +10,7 @@
    ],
    "chip": null,
    "fornavn": "Hans Christian",
-   "gw_poeng": 28,
+   "gw_poeng": 30,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -32,14 +32,12 @@
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "EVE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Maguire",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 2,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -86,14 +84,12 @@
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "EVE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "B.Fernandes",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 6,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": true
     },
@@ -224,7 +220,7 @@
    ],
    "chip": "Triple Captain",
    "fornavn": "Magnus Nordby",
-   "gw_poeng": 42,
+   "gw_poeng": 44,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -260,14 +256,12 @@
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "EVE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Shaw",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 3,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -312,14 +306,12 @@
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "EVE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "B.Fernandes",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -438,7 +430,7 @@
    ],
    "chip": "Triple Captain",
    "fornavn": "Morten",
-   "gw_poeng": 45,
+   "gw_poeng": 47,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -460,14 +452,12 @@
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "EVE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Maguire",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 2,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -510,14 +500,12 @@
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "EVE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "B.Fernandes",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 6,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -650,7 +638,7 @@
    ],
    "chip": null,
    "fornavn": "Arif",
-   "gw_poeng": 28,
+   "gw_poeng": 30,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Semenyo",
@@ -674,14 +662,12 @@
     {
      "kaptein": false,
      "lag_kode": 11,
-     "motstander": [
-      "MUN (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Tarkowski",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 2,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -726,14 +712,12 @@
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "EVE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "B.Fernandes",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 6,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -802,14 +786,12 @@
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "EVE (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Lammens",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 12,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -862,7 +844,7 @@
    ],
    "chip": null,
    "fornavn": "Tobias",
-   "gw_poeng": 36,
+   "gw_poeng": 37,
    "har_beste_gw": false,
    "har_verste_gw": true,
    "kaptein": "Cherki",
@@ -948,14 +930,12 @@
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "EVE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "B.Fernandes",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1070,7 +1050,7 @@
    ],
    "chip": "Triple Captain",
    "fornavn": "Erik",
-   "gw_poeng": 57,
+   "gw_poeng": 58,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1118,14 +1098,12 @@
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "EVE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Maguire",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 4,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1320,7 +1298,7 @@
    ],
    "chip": "Free Hit",
    "fornavn": "Thomas",
-   "gw_poeng": 47,
+   "gw_poeng": 50,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1330,14 +1308,12 @@
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "EVE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Lammens",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 1,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -1392,28 +1368,24 @@
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "EVE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Mbeumo",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 6,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "EVE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "B.Fernandes",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1532,7 +1504,7 @@
    ],
    "chip": null,
    "fornavn": "Per Olav",
-   "gw_poeng": 16,
+   "gw_poeng": 19,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Cunha",
@@ -1604,14 +1576,12 @@
     {
      "kaptein": true,
      "lag_kode": 1,
-     "motstander": [
-      "EVE (A)"
-     ],
+     "motstander": null,
      "mult": 2,
      "navn": "Cunha",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 6,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1630,14 +1600,12 @@
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "EVE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "B.Fernandes",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 8,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": true
     },
@@ -1742,7 +1710,7 @@
    ],
    "chip": "Triple Captain",
    "fornavn": "Visar",
-   "gw_poeng": 39,
+   "gw_poeng": 41,
    "har_beste_gw": true,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1792,28 +1760,24 @@
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "EVE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Shaw",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 4,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "EVE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "B.Fernandes",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 5,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1894,14 +1858,12 @@
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "EVE (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Lammens",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 12,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
