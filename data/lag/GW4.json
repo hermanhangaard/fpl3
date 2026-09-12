@@ -218,9 +218,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Dubravka",
      "poeng": 0,
@@ -442,9 +440,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Dubravka",
      "poeng": 0,
@@ -794,7 +790,7 @@
    ],
    "chip": null,
    "fornavn": "Arif",
-   "gw_poeng": 8,
+   "gw_poeng": 16,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Semenyo",
@@ -818,14 +814,12 @@
     {
      "kaptein": false,
      "lag_kode": 11,
-     "motstander": [
-      "TOT (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Tarkowski",
-     "poeng": 0,
+     "poeng": 8,
      "posisjon": 2,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -860,9 +854,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Pedro Porro",
      "poeng": 0,
@@ -1016,7 +1008,7 @@
    ],
    "chip": null,
    "fornavn": "Tobias",
-   "gw_poeng": 13,
+   "gw_poeng": 19,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1040,23 +1032,19 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Van de Ven",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 2,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Pedro Porro",
      "poeng": 0,
@@ -1176,9 +1164,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Dubravka",
      "poeng": 0,
@@ -1392,14 +1378,12 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Kinsky",
-     "poeng": 0,
+     "poeng": 7,
      "posisjon": 12,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -1642,14 +1626,12 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Van Hecke",
-     "poeng": 0,
+     "poeng": 8,
      "posisjon": 14,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1862,14 +1844,12 @@
     {
      "kaptein": false,
      "lag_kode": 11,
-     "motstander": [
-      "TOT (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Dewsbury-Hall",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 14,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1938,7 +1918,7 @@
    ],
    "chip": "Wildcard",
    "fornavn": "Visar",
-   "gw_poeng": 33,
+   "gw_poeng": 40,
    "har_beste_gw": true,
    "har_verste_gw": false,
    "kaptein": "Palmer",
@@ -1948,14 +1928,12 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Kinsky",
-     "poeng": 0,
+     "poeng": 7,
      "posisjon": 1,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -2108,14 +2086,12 @@
     {
      "kaptein": false,
      "lag_kode": 11,
-     "motstander": [
-      "TOT (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Barry",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 13,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
