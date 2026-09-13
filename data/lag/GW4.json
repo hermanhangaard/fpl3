@@ -62,7 +62,7 @@
    ],
    "chip": "Wildcard",
    "fornavn": "Hans Christian",
-   "gw_poeng": 83,
+   "gw_poeng": 91,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Palmer",
@@ -168,14 +168,12 @@
     {
      "kaptein": false,
      "lag_kode": 43,
-     "motstander": [
-      "MUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Haaland",
-     "poeng": 0,
+     "poeng": 8,
      "posisjon": 9,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": true
     },
@@ -270,7 +268,7 @@
    ],
    "chip": null,
    "fornavn": "Magnus Nordby",
-   "gw_poeng": 57,
+   "gw_poeng": 67,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "De Cuyper",
@@ -354,14 +352,12 @@
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "MCI (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "B.Fernandes",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": true
     },
@@ -392,14 +388,12 @@
     {
      "kaptein": false,
      "lag_kode": 43,
-     "motstander": [
-      "MUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Haaland",
-     "poeng": 0,
+     "poeng": 8,
      "posisjon": 10,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -552,7 +546,7 @@
    ],
    "chip": "Wildcard",
    "fornavn": "Morten",
-   "gw_poeng": 56,
+   "gw_poeng": 64,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Isak",
@@ -670,14 +664,12 @@
     {
      "kaptein": false,
      "lag_kode": 43,
-     "motstander": [
-      "MUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Haaland",
-     "poeng": 0,
+     "poeng": 8,
      "posisjon": 10,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -754,7 +746,7 @@
    ],
    "chip": null,
    "fornavn": "Arif",
-   "gw_poeng": 40,
+   "gw_poeng": 48,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Semenyo",
@@ -826,28 +818,24 @@
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "MCI (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "B.Fernandes",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 6,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
     {
      "kaptein": true,
      "lag_kode": 43,
-     "motstander": [
-      "MUN (A)"
-     ],
+     "motstander": null,
      "mult": 2,
      "navn": "Semenyo",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -902,14 +890,12 @@
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "MCI (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Lammens",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 12,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -940,9 +926,7 @@
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "MCI (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Obi",
      "poeng": 0,
@@ -964,7 +948,7 @@
    ],
    "chip": null,
    "fornavn": "Tobias",
-   "gw_poeng": 40,
+   "gw_poeng": 60,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1022,42 +1006,36 @@
     {
      "kaptein": false,
      "lag_kode": 43,
-     "motstander": [
-      "MUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Ndiaye",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 5,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 43,
-     "motstander": [
-      "MUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Cherki",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 6,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "MCI (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "B.Fernandes",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": true
     },
@@ -1088,14 +1066,12 @@
     {
      "kaptein": true,
      "lag_kode": 43,
-     "motstander": [
-      "MUN (A)"
-     ],
+     "motstander": null,
      "mult": 2,
      "navn": "Haaland",
-     "poeng": 0,
+     "poeng": 16,
      "posisjon": 10,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -1176,7 +1152,7 @@
    ],
    "chip": null,
    "fornavn": "Erik",
-   "gw_poeng": 50,
+   "gw_poeng": 67,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1246,14 +1222,12 @@
     {
      "kaptein": false,
      "lag_kode": 43,
-     "motstander": [
-      "MUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Cherki",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 6,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1284,14 +1258,12 @@
     {
      "kaptein": true,
      "lag_kode": 43,
-     "motstander": [
-      "MUN (A)"
-     ],
+     "motstander": null,
      "mult": 2,
      "navn": "Haaland",
-     "poeng": 0,
+     "poeng": 16,
      "posisjon": 9,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -1346,14 +1318,12 @@
     {
      "kaptein": false,
      "lag_kode": 43,
-     "motstander": [
-      "MUN (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "O'Reilly",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 14,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1388,7 +1358,7 @@
    ],
    "chip": null,
    "fornavn": "Thomas",
-   "gw_poeng": 51,
+   "gw_poeng": 57,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Rogers",
@@ -1398,14 +1368,12 @@
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "MCI (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Lammens",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 1,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -1460,28 +1428,24 @@
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "MCI (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Mbeumo",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 6,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "MCI (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "B.Fernandes",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1548,14 +1512,12 @@
     {
      "kaptein": false,
      "lag_kode": 43,
-     "motstander": [
-      "MUN (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Guéhi",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 13,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1598,7 +1560,7 @@
    ],
    "chip": null,
    "fornavn": "Per Olav",
-   "gw_poeng": 31,
+   "gw_poeng": 43,
    "har_beste_gw": false,
    "har_verste_gw": true,
    "kaptein": "Cunha",
@@ -1634,14 +1596,12 @@
     {
      "kaptein": false,
      "lag_kode": 43,
-     "motstander": [
-      "MUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Guéhi",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 3,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1672,14 +1632,12 @@
     {
      "kaptein": true,
      "lag_kode": 1,
-     "motstander": [
-      "MCI (H)"
-     ],
+     "motstander": null,
      "mult": 2,
      "navn": "Cunha",
-     "poeng": 0,
+     "poeng": 4,
      "posisjon": 6,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1698,14 +1656,12 @@
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "MCI (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "B.Fernandes",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 8,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": true
     },
@@ -1848,7 +1804,7 @@
    ],
    "chip": "Wildcard",
    "fornavn": "Visar",
-   "gw_poeng": 74,
+   "gw_poeng": 82,
    "har_beste_gw": true,
    "har_verste_gw": false,
    "kaptein": "Palmer",
@@ -1978,14 +1934,12 @@
     {
      "kaptein": false,
      "lag_kode": 43,
-     "motstander": [
-      "MUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Haaland",
-     "poeng": 0,
+     "poeng": 8,
      "posisjon": 11,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
