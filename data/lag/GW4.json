@@ -62,7 +62,7 @@
    ],
    "chip": "Wildcard",
    "fornavn": "Hans Christian",
-   "gw_poeng": 47,
+   "gw_poeng": 83,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Palmer",
@@ -72,28 +72,24 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "COV (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Verbruggen",
-     "poeng": 0,
+     "poeng": 8,
      "posisjon": 1,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "COV (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "De Cuyper",
-     "poeng": 0,
+     "poeng": 11,
      "posisjon": 2,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -160,14 +156,12 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "COV (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Groß",
-     "poeng": 0,
+     "poeng": 17,
      "posisjon": 8,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -236,14 +230,12 @@
     {
      "kaptein": false,
      "lag_kode": 9,
-     "motstander": [
-      "BHA (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Thomas",
      "poeng": 0,
      "posisjon": 14,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -278,7 +270,7 @@
    ],
    "chip": null,
    "fornavn": "Magnus Nordby",
-   "gw_poeng": 35,
+   "gw_poeng": 57,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "De Cuyper",
@@ -312,14 +304,12 @@
     {
      "kaptein": true,
      "lag_kode": 36,
-     "motstander": [
-      "COV (A)"
-     ],
+     "motstander": null,
      "mult": 2,
      "navn": "De Cuyper",
-     "poeng": 0,
+     "poeng": 22,
      "posisjon": 3,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -562,7 +552,7 @@
    ],
    "chip": "Wildcard",
    "fornavn": "Morten",
-   "gw_poeng": 50,
+   "gw_poeng": 56,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Isak",
@@ -620,14 +610,12 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "COV (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Vuskovic",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 5,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -708,14 +696,12 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "COV (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Verbruggen",
-     "poeng": 0,
+     "poeng": 8,
      "posisjon": 12,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -734,14 +720,12 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "COV (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Gomez",
-     "poeng": 0,
+     "poeng": 3,
      "posisjon": 14,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1192,7 +1176,7 @@
    ],
    "chip": null,
    "fornavn": "Erik",
-   "gw_poeng": 31,
+   "gw_poeng": 50,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1202,14 +1186,12 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "COV (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Verbruggen",
-     "poeng": 0,
+     "poeng": 8,
      "posisjon": 1,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -1240,14 +1222,12 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "COV (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "De Cuyper",
-     "poeng": 0,
+     "poeng": 11,
      "posisjon": 4,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1354,14 +1334,12 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "COV (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Gomez",
-     "poeng": 0,
+     "poeng": 3,
      "posisjon": 13,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1870,7 +1848,7 @@
    ],
    "chip": "Wildcard",
    "fornavn": "Visar",
-   "gw_poeng": 60,
+   "gw_poeng": 74,
    "har_beste_gw": true,
    "har_verste_gw": false,
    "kaptein": "Palmer",
@@ -1916,28 +1894,24 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "COV (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "De Cuyper",
-     "poeng": 0,
+     "poeng": 11,
      "posisjon": 4,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "COV (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Gomez",
-     "poeng": 0,
+     "poeng": 3,
      "posisjon": 5,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -2018,9 +1992,7 @@
     {
      "kaptein": false,
      "lag_kode": 9,
-     "motstander": [
-      "BHA (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Bentley",
      "poeng": 0,
