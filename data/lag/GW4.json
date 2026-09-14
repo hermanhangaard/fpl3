@@ -240,14 +240,12 @@
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "LEE (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Thiaw",
      "poeng": 0,
      "posisjon": 15,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     }
@@ -338,9 +336,7 @@
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "LEE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Elanga",
      "poeng": 0,
@@ -746,7 +742,7 @@
    ],
    "chip": null,
    "fornavn": "Arif",
-   "gw_poeng": 48,
+   "gw_poeng": 59,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Semenyo",
@@ -792,14 +788,12 @@
     {
      "kaptein": false,
      "lag_kode": 2,
-     "motstander": [
-      "NEW (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Muharemović",
-     "poeng": 0,
+     "poeng": 12,
      "posisjon": 4,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1330,14 +1324,12 @@
     {
      "kaptein": false,
      "lag_kode": 2,
-     "motstander": [
-      "NEW (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Muharemović",
-     "poeng": 0,
+     "poeng": 12,
      "posisjon": 15,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     }
@@ -1536,14 +1528,12 @@
     {
      "kaptein": false,
      "lag_kode": 2,
-     "motstander": [
-      "NEW (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Calvert-Lewin",
-     "poeng": 0,
+     "poeng": 9,
      "posisjon": 15,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     }
@@ -1560,7 +1550,7 @@
    ],
    "chip": null,
    "fornavn": "Per Olav",
-   "gw_poeng": 43,
+   "gw_poeng": 52,
    "har_beste_gw": false,
    "har_verste_gw": true,
    "kaptein": "Cunha",
@@ -1570,14 +1560,12 @@
     {
      "kaptein": false,
      "lag_kode": 2,
-     "motstander": [
-      "NEW (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Trafford",
-     "poeng": 0,
+     "poeng": 7,
      "posisjon": 1,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -1692,14 +1680,12 @@
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "LEE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Wissa",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 11,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -1970,14 +1956,12 @@
     {
      "kaptein": false,
      "lag_kode": 2,
-     "motstander": [
-      "NEW (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Muharemović",
-     "poeng": 0,
+     "poeng": 12,
      "posisjon": 14,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
