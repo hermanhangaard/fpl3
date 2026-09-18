@@ -1,0 +1,2113 @@
+{
+ "deltakere": {
+  "1094869": {
+   "beste_gw_nr": 2,
+   "bytter": [],
+   "chip": null,
+   "fornavn": "Hans Christian",
+   "gw_poeng": 2,
+   "har_beste_gw": false,
+   "har_verste_gw": false,
+   "kaptein": "Haaland",
+   "lagnavn": "GGs 11",
+   "trekk": 0,
+   "tropp": [
+    {
+     "kaptein": false,
+     "lag_kode": 36,
+     "motstander": [
+      "ARS (H)"
+     ],
+     "mult": 1,
+     "navn": "Verbruggen",
+     "poeng": 0,
+     "posisjon": 1,
+     "spilt": false,
+     "type": 1,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 4,
+     "motstander": [
+      "HUL (H)"
+     ],
+     "mult": 1,
+     "navn": "Thiaw",
+     "poeng": 0,
+     "posisjon": 2,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 3,
+     "motstander": [
+      "BHA (A)"
+     ],
+     "mult": 1,
+     "navn": "Calafiori",
+     "poeng": 0,
+     "posisjon": 3,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 3,
+     "motstander": [
+      "BHA (A)"
+     ],
+     "mult": 1,
+     "navn": "Konsa",
+     "poeng": 0,
+     "posisjon": 4,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 8,
+     "motstander": null,
+     "mult": 1,
+     "navn": "Rogers",
+     "poeng": 1,
+     "posisjon": 5,
+     "spilt": true,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 8,
+     "motstander": null,
+     "mult": 1,
+     "navn": "Palmer",
+     "poeng": 1,
+     "posisjon": 6,
+     "spilt": true,
+     "type": 3,
+     "vise": true
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 3,
+     "motstander": [
+      "BHA (A)"
+     ],
+     "mult": 1,
+     "navn": "Ødegaard",
+     "poeng": 0,
+     "posisjon": 7,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 94,
+     "motstander": null,
+     "mult": 1,
+     "navn": "M.Sangaré",
+     "poeng": 0,
+     "posisjon": 8,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": true,
+     "lag_kode": 43,
+     "motstander": [
+      "SUN (H)"
+     ],
+     "mult": 2,
+     "navn": "Haaland",
+     "poeng": 0,
+     "posisjon": 9,
+     "spilt": false,
+     "type": 4,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 14,
+     "motstander": [
+      "BOU (A)"
+     ],
+     "mult": 1,
+     "navn": "Isak",
+     "poeng": 0,
+     "posisjon": 10,
+     "spilt": false,
+     "type": 4,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 8,
+     "motstander": null,
+     "mult": 1,
+     "navn": "João Pedro",
+     "poeng": 0,
+     "posisjon": 11,
+     "spilt": false,
+     "type": 4,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 6,
+     "motstander": [
+      "AVL (H)"
+     ],
+     "mult": 0,
+     "navn": "Dubravka",
+     "poeng": 0,
+     "posisjon": 12,
+     "spilt": false,
+     "type": 1,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 36,
+     "motstander": [
+      "ARS (H)"
+     ],
+     "mult": 0,
+     "navn": "Groß",
+     "poeng": 0,
+     "posisjon": 13,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 36,
+     "motstander": [
+      "ARS (H)"
+     ],
+     "mult": 0,
+     "navn": "De Cuyper",
+     "poeng": 0,
+     "posisjon": 14,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 9,
+     "motstander": [
+      "NFO (A)"
+     ],
+     "mult": 0,
+     "navn": "Thomas",
+     "poeng": 0,
+     "posisjon": 15,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    }
+   ],
+   "verste_gw_nr": 3
+  },
+  "2774131": {
+   "beste_gw_nr": 2,
+   "bytter": [
+    {
+     "inn": "Tzolakis",
+     "ut": "Kelleher"
+    },
+    {
+     "inn": "Ajayi",
+     "ut": "Diop"
+    },
+    {
+     "inn": "Gvardiol",
+     "ut": "N.Williams"
+    },
+    {
+     "inn": "Bogle",
+     "ut": "O'Nien"
+    },
+    {
+     "inn": "Janelt",
+     "ut": "Hughes"
+    },
+    {
+     "inn": "Groß",
+     "ut": "Elanga"
+    },
+    {
+     "inn": "Ødegaard",
+     "ut": "Tzolis"
+    },
+    {
+     "inn": "Calvert-Lewin",
+     "ut": "Havertz"
+    },
+    {
+     "inn": "Schade",
+     "ut": "Janelt"
+    },
+    {
+     "inn": "Wissa",
+     "ut": "João Pedro"
+    }
+   ],
+   "chip": "Wildcard",
+   "fornavn": "Magnus Nordby",
+   "gw_poeng": 1,
+   "har_beste_gw": false,
+   "har_verste_gw": false,
+   "kaptein": "Haaland",
+   "lagnavn": "United Forever❤️⚽️",
+   "trekk": 0,
+   "tropp": [
+    {
+     "kaptein": false,
+     "lag_kode": 88,
+     "motstander": [
+      "NEW (A)"
+     ],
+     "mult": 1,
+     "navn": "Tzolakis",
+     "poeng": 0,
+     "posisjon": 1,
+     "spilt": false,
+     "type": 1,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 2,
+     "motstander": [
+      "CRY (H)"
+     ],
+     "mult": 1,
+     "navn": "Bogle",
+     "poeng": 0,
+     "posisjon": 2,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 43,
+     "motstander": [
+      "SUN (H)"
+     ],
+     "mult": 1,
+     "navn": "Gvardiol",
+     "poeng": 0,
+     "posisjon": 3,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 3,
+     "motstander": [
+      "BHA (A)"
+     ],
+     "mult": 1,
+     "navn": "Calafiori",
+     "poeng": 0,
+     "posisjon": 4,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 36,
+     "motstander": [
+      "ARS (H)"
+     ],
+     "mult": 1,
+     "navn": "De Cuyper",
+     "poeng": 0,
+     "posisjon": 5,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 17,
+     "motstander": [
+      "COV (H)"
+     ],
+     "mult": 1,
+     "navn": "Gibbs-White",
+     "poeng": 0,
+     "posisjon": 6,
+     "spilt": false,
+     "type": 3,
+     "vise": true
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 1,
+     "motstander": [
+      "FUL (A)"
+     ],
+     "mult": 1,
+     "navn": "B.Fernandes",
+     "poeng": 0,
+     "posisjon": 7,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 94,
+     "motstander": null,
+     "mult": 1,
+     "navn": "Schade",
+     "poeng": 1,
+     "posisjon": 8,
+     "spilt": true,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 2,
+     "motstander": [
+      "CRY (H)"
+     ],
+     "mult": 1,
+     "navn": "Calvert-Lewin",
+     "poeng": 0,
+     "posisjon": 9,
+     "spilt": false,
+     "type": 4,
+     "vise": false
+    },
+    {
+     "kaptein": true,
+     "lag_kode": 43,
+     "motstander": [
+      "SUN (H)"
+     ],
+     "mult": 2,
+     "navn": "Haaland",
+     "poeng": 0,
+     "posisjon": 10,
+     "spilt": false,
+     "type": 4,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 4,
+     "motstander": [
+      "HUL (H)"
+     ],
+     "mult": 1,
+     "navn": "Wissa",
+     "poeng": 0,
+     "posisjon": 11,
+     "spilt": false,
+     "type": 4,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 6,
+     "motstander": [
+      "AVL (H)"
+     ],
+     "mult": 0,
+     "navn": "Dubravka",
+     "poeng": 0,
+     "posisjon": 12,
+     "spilt": false,
+     "type": 1,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 36,
+     "motstander": [
+      "ARS (H)"
+     ],
+     "mult": 0,
+     "navn": "Groß",
+     "poeng": 0,
+     "posisjon": 13,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 3,
+     "motstander": [
+      "BHA (A)"
+     ],
+     "mult": 0,
+     "navn": "Ødegaard",
+     "poeng": 0,
+     "posisjon": 14,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 88,
+     "motstander": [
+      "NEW (A)"
+     ],
+     "mult": 0,
+     "navn": "Ajayi",
+     "poeng": 0,
+     "posisjon": 15,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    }
+   ],
+   "verste_gw_nr": 1
+  },
+  "314055": {
+   "beste_gw_nr": 2,
+   "bytter": [
+    {
+     "inn": "Mykolenko",
+     "ut": "Mitchell"
+    },
+    {
+     "inn": "Pickford",
+     "ut": "Verbruggen"
+    },
+    {
+     "inn": "Forster",
+     "ut": "Suzuki"
+    },
+    {
+     "inn": "Gvardiol",
+     "ut": "Konsa"
+    },
+    {
+     "inn": "Murillo",
+     "ut": "Vuskovic"
+    },
+    {
+     "inn": "Cherki",
+     "ut": "Ødegaard"
+    },
+    {
+     "inn": "Gibbs-White",
+     "ut": "Gomez"
+    },
+    {
+     "inn": "King",
+     "ut": "Palmer"
+    },
+    {
+     "inn": "Belloumi",
+     "ut": "Kamada"
+    },
+    {
+     "inn": "Marmoush",
+     "ut": "Isak"
+    },
+    {
+     "inn": "Justin",
+     "ut": "Mykolenko"
+    },
+    {
+     "inn": "Tarkowski",
+     "ut": "Jacquet"
+    },
+    {
+     "inn": "George",
+     "ut": "King"
+    },
+    {
+     "inn": "Calvert-Lewin",
+     "ut": "João Pedro"
+    },
+    {
+     "inn": "Igor Jesus",
+     "ut": "Marmoush"
+    }
+   ],
+   "chip": "Free Hit",
+   "fornavn": "Morten",
+   "gw_poeng": 1,
+   "har_beste_gw": false,
+   "har_verste_gw": false,
+   "kaptein": "Haaland",
+   "lagnavn": "Morten's Team",
+   "trekk": 0,
+   "tropp": [
+    {
+     "kaptein": false,
+     "lag_kode": 11,
+     "motstander": [
+      "IPS (H)"
+     ],
+     "mult": 1,
+     "navn": "Pickford",
+     "poeng": 0,
+     "posisjon": 1,
+     "spilt": false,
+     "type": 1,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 11,
+     "motstander": [
+      "IPS (H)"
+     ],
+     "mult": 1,
+     "navn": "Tarkowski",
+     "poeng": 0,
+     "posisjon": 2,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 2,
+     "motstander": [
+      "CRY (H)"
+     ],
+     "mult": 1,
+     "navn": "Justin",
+     "poeng": 0,
+     "posisjon": 3,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 3,
+     "motstander": [
+      "BHA (A)"
+     ],
+     "mult": 1,
+     "navn": "Calafiori",
+     "poeng": 0,
+     "posisjon": 4,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 43,
+     "motstander": [
+      "SUN (H)"
+     ],
+     "mult": 1,
+     "navn": "Gvardiol",
+     "poeng": 0,
+     "posisjon": 5,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 17,
+     "motstander": [
+      "COV (H)"
+     ],
+     "mult": 1,
+     "navn": "Murillo",
+     "poeng": 0,
+     "posisjon": 6,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 17,
+     "motstander": [
+      "COV (H)"
+     ],
+     "mult": 1,
+     "navn": "Gibbs-White",
+     "poeng": 0,
+     "posisjon": 7,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 43,
+     "motstander": [
+      "SUN (H)"
+     ],
+     "mult": 1,
+     "navn": "Cherki",
+     "poeng": 0,
+     "posisjon": 8,
+     "spilt": false,
+     "type": 3,
+     "vise": true
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 8,
+     "motstander": null,
+     "mult": 1,
+     "navn": "Rogers",
+     "poeng": 1,
+     "posisjon": 9,
+     "spilt": true,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": true,
+     "lag_kode": 43,
+     "motstander": [
+      "SUN (H)"
+     ],
+     "mult": 2,
+     "navn": "Haaland",
+     "poeng": 0,
+     "posisjon": 10,
+     "spilt": false,
+     "type": 4,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 2,
+     "motstander": [
+      "CRY (H)"
+     ],
+     "mult": 1,
+     "navn": "Calvert-Lewin",
+     "poeng": 0,
+     "posisjon": 11,
+     "spilt": false,
+     "type": 4,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 91,
+     "motstander": [
+      "LIV (H)"
+     ],
+     "mult": 0,
+     "navn": "Forster",
+     "poeng": 0,
+     "posisjon": 12,
+     "spilt": false,
+     "type": 1,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 17,
+     "motstander": [
+      "COV (H)"
+     ],
+     "mult": 0,
+     "navn": "Igor Jesus",
+     "poeng": 0,
+     "posisjon": 13,
+     "spilt": false,
+     "type": 4,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 11,
+     "motstander": [
+      "IPS (H)"
+     ],
+     "mult": 0,
+     "navn": "George",
+     "poeng": 0,
+     "posisjon": 14,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 88,
+     "motstander": [
+      "NEW (A)"
+     ],
+     "mult": 0,
+     "navn": "Belloumi",
+     "poeng": 0,
+     "posisjon": 15,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    }
+   ],
+   "verste_gw_nr": 1
+  },
+  "3571282": {
+   "beste_gw_nr": 2,
+   "bytter": [
+    {
+     "inn": "Wissa",
+     "ut": "Obi"
+    }
+   ],
+   "chip": null,
+   "fornavn": "Arif",
+   "gw_poeng": 1,
+   "har_beste_gw": false,
+   "har_verste_gw": false,
+   "kaptein": "B.Fernandes",
+   "lagnavn": "Arsenal4life",
+   "trekk": 0,
+   "tropp": [
+    {
+     "kaptein": false,
+     "lag_kode": 3,
+     "motstander": [
+      "BHA (A)"
+     ],
+     "mult": 1,
+     "navn": "Raya",
+     "poeng": 0,
+     "posisjon": 1,
+     "spilt": false,
+     "type": 1,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 11,
+     "motstander": [
+      "IPS (H)"
+     ],
+     "mult": 1,
+     "navn": "Tarkowski",
+     "poeng": 0,
+     "posisjon": 2,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 3,
+     "motstander": [
+      "BHA (A)"
+     ],
+     "mult": 1,
+     "navn": "Gabriel",
+     "poeng": 0,
+     "posisjon": 3,
+     "spilt": false,
+     "type": 2,
+     "vise": true
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 2,
+     "motstander": [
+      "CRY (H)"
+     ],
+     "mult": 1,
+     "navn": "Muharemović",
+     "poeng": 0,
+     "posisjon": 4,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 94,
+     "motstander": null,
+     "mult": 1,
+     "navn": "M.Sangaré",
+     "poeng": 0,
+     "posisjon": 5,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": true,
+     "lag_kode": 1,
+     "motstander": [
+      "FUL (A)"
+     ],
+     "mult": 2,
+     "navn": "B.Fernandes",
+     "poeng": 0,
+     "posisjon": 6,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 43,
+     "motstander": [
+      "SUN (H)"
+     ],
+     "mult": 1,
+     "navn": "Semenyo",
+     "poeng": 0,
+     "posisjon": 7,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 14,
+     "motstander": [
+      "BOU (A)"
+     ],
+     "mult": 1,
+     "navn": "Szoboszlai",
+     "poeng": 0,
+     "posisjon": 8,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 4,
+     "motstander": [
+      "HUL (H)"
+     ],
+     "mult": 1,
+     "navn": "Wissa",
+     "poeng": 0,
+     "posisjon": 9,
+     "spilt": false,
+     "type": 4,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 3,
+     "motstander": [
+      "BHA (A)"
+     ],
+     "mult": 1,
+     "navn": "Havertz",
+     "poeng": 0,
+     "posisjon": 10,
+     "spilt": false,
+     "type": 4,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 94,
+     "motstander": null,
+     "mult": 1,
+     "navn": "Thiago",
+     "poeng": 1,
+     "posisjon": 11,
+     "spilt": true,
+     "type": 4,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 1,
+     "motstander": [
+      "FUL (A)"
+     ],
+     "mult": 0,
+     "navn": "Lammens",
+     "poeng": 0,
+     "posisjon": 12,
+     "spilt": false,
+     "type": 1,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 94,
+     "motstander": null,
+     "mult": 0,
+     "navn": "Yarmoliuk",
+     "poeng": 3,
+     "posisjon": 13,
+     "spilt": true,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 56,
+     "motstander": [
+      "MCI (A)"
+     ],
+     "mult": 0,
+     "navn": "O'Nien",
+     "poeng": 0,
+     "posisjon": 14,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 6,
+     "motstander": [
+      "AVL (H)"
+     ],
+     "mult": 0,
+     "navn": "Pedro Porro",
+     "poeng": 0,
+     "posisjon": 15,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    }
+   ],
+   "verste_gw_nr": 3
+  },
+  "3636759": {
+   "beste_gw_nr": 2,
+   "bytter": [
+    {
+     "inn": "Hall",
+     "ut": "Pedro Porro"
+    }
+   ],
+   "chip": null,
+   "fornavn": "Tobias",
+   "gw_poeng": 0,
+   "har_beste_gw": false,
+   "har_verste_gw": false,
+   "kaptein": "Haaland",
+   "lagnavn": "Receba FC",
+   "trekk": 0,
+   "tropp": [
+    {
+     "kaptein": false,
+     "lag_kode": 3,
+     "motstander": [
+      "BHA (A)"
+     ],
+     "mult": 1,
+     "navn": "Raya",
+     "poeng": 0,
+     "posisjon": 1,
+     "spilt": false,
+     "type": 1,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 6,
+     "motstander": [
+      "AVL (H)"
+     ],
+     "mult": 1,
+     "navn": "Van de Ven",
+     "poeng": 0,
+     "posisjon": 2,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 4,
+     "motstander": [
+      "HUL (H)"
+     ],
+     "mult": 1,
+     "navn": "Hall",
+     "poeng": 0,
+     "posisjon": 3,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 3,
+     "motstander": [
+      "BHA (A)"
+     ],
+     "mult": 1,
+     "navn": "Calafiori",
+     "poeng": 0,
+     "posisjon": 4,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 43,
+     "motstander": [
+      "SUN (H)"
+     ],
+     "mult": 1,
+     "navn": "Ndiaye",
+     "poeng": 0,
+     "posisjon": 5,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 43,
+     "motstander": [
+      "SUN (H)"
+     ],
+     "mult": 1,
+     "navn": "Cherki",
+     "poeng": 0,
+     "posisjon": 6,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 1,
+     "motstander": [
+      "FUL (A)"
+     ],
+     "mult": 1,
+     "navn": "B.Fernandes",
+     "poeng": 0,
+     "posisjon": 7,
+     "spilt": false,
+     "type": 3,
+     "vise": true
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 91,
+     "motstander": [
+      "LIV (H)"
+     ],
+     "mult": 1,
+     "navn": "Tavernier",
+     "poeng": 0,
+     "posisjon": 8,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 91,
+     "motstander": [
+      "LIV (H)"
+     ],
+     "mult": 1,
+     "navn": "Evanilson",
+     "poeng": 0,
+     "posisjon": 9,
+     "spilt": false,
+     "type": 4,
+     "vise": false
+    },
+    {
+     "kaptein": true,
+     "lag_kode": 43,
+     "motstander": [
+      "SUN (H)"
+     ],
+     "mult": 2,
+     "navn": "Haaland",
+     "poeng": 0,
+     "posisjon": 10,
+     "spilt": false,
+     "type": 4,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 3,
+     "motstander": [
+      "BHA (A)"
+     ],
+     "mult": 1,
+     "navn": "Havertz",
+     "poeng": 0,
+     "posisjon": 11,
+     "spilt": false,
+     "type": 4,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 6,
+     "motstander": [
+      "AVL (H)"
+     ],
+     "mult": 0,
+     "navn": "Dubravka",
+     "poeng": 0,
+     "posisjon": 12,
+     "spilt": false,
+     "type": 1,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 31,
+     "motstander": [
+      "LEE (A)"
+     ],
+     "mult": 0,
+     "navn": "Hughes",
+     "poeng": 0,
+     "posisjon": 13,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 40,
+     "motstander": [
+      "EVE (A)"
+     ],
+     "mult": 0,
+     "navn": "Diop",
+     "poeng": 0,
+     "posisjon": 14,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 7,
+     "motstander": [
+      "TOT (A)"
+     ],
+     "mult": 0,
+     "navn": "A.García",
+     "poeng": 0,
+     "posisjon": 15,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    }
+   ],
+   "verste_gw_nr": 1
+  },
+  "4890080": {
+   "beste_gw_nr": 2,
+   "bytter": [
+    {
+     "inn": "Ødegaard",
+     "ut": "Wirtz"
+    }
+   ],
+   "chip": null,
+   "fornavn": "Erik",
+   "gw_poeng": 0,
+   "har_beste_gw": false,
+   "har_verste_gw": false,
+   "kaptein": "Haaland",
+   "lagnavn": "Hulkerud FC",
+   "trekk": 0,
+   "tropp": [
+    {
+     "kaptein": false,
+     "lag_kode": 6,
+     "motstander": [
+      "AVL (H)"
+     ],
+     "mult": 1,
+     "navn": "Kinsky",
+     "poeng": 0,
+     "posisjon": 1,
+     "spilt": false,
+     "type": 1,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 3,
+     "motstander": [
+      "BHA (A)"
+     ],
+     "mult": 1,
+     "navn": "Calafiori",
+     "poeng": 0,
+     "posisjon": 2,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 40,
+     "motstander": [
+      "EVE (A)"
+     ],
+     "mult": 1,
+     "navn": "O'Shea",
+     "poeng": 0,
+     "posisjon": 3,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 43,
+     "motstander": [
+      "SUN (H)"
+     ],
+     "mult": 1,
+     "navn": "O'Reilly",
+     "poeng": 0,
+     "posisjon": 4,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 3,
+     "motstander": [
+      "BHA (A)"
+     ],
+     "mult": 1,
+     "navn": "Ødegaard",
+     "poeng": 0,
+     "posisjon": 5,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 43,
+     "motstander": [
+      "SUN (H)"
+     ],
+     "mult": 1,
+     "navn": "Cherki",
+     "poeng": 0,
+     "posisjon": 6,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 14,
+     "motstander": [
+      "BOU (A)"
+     ],
+     "mult": 1,
+     "navn": "Szoboszlai",
+     "poeng": 0,
+     "posisjon": 7,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 94,
+     "motstander": null,
+     "mult": 1,
+     "navn": "M.Sangaré",
+     "poeng": 0,
+     "posisjon": 8,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": true,
+     "lag_kode": 43,
+     "motstander": [
+      "SUN (H)"
+     ],
+     "mult": 2,
+     "navn": "Haaland",
+     "poeng": 0,
+     "posisjon": 9,
+     "spilt": false,
+     "type": 4,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 14,
+     "motstander": [
+      "BOU (A)"
+     ],
+     "mult": 1,
+     "navn": "Isak",
+     "poeng": 0,
+     "posisjon": 10,
+     "spilt": false,
+     "type": 4,
+     "vise": true
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 8,
+     "motstander": null,
+     "mult": 1,
+     "navn": "João Pedro",
+     "poeng": 0,
+     "posisjon": 11,
+     "spilt": false,
+     "type": 4,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 36,
+     "motstander": [
+      "ARS (H)"
+     ],
+     "mult": 0,
+     "navn": "Verbruggen",
+     "poeng": 0,
+     "posisjon": 12,
+     "spilt": false,
+     "type": 1,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 2,
+     "motstander": [
+      "CRY (H)"
+     ],
+     "mult": 0,
+     "navn": "Muharemović",
+     "poeng": 0,
+     "posisjon": 13,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 36,
+     "motstander": [
+      "ARS (H)"
+     ],
+     "mult": 0,
+     "navn": "De Cuyper",
+     "poeng": 0,
+     "posisjon": 14,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 36,
+     "motstander": [
+      "ARS (H)"
+     ],
+     "mult": 0,
+     "navn": "Gomez",
+     "poeng": 0,
+     "posisjon": 15,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    }
+   ],
+   "verste_gw_nr": 1
+  },
+  "6259629": {
+   "beste_gw_nr": 2,
+   "bytter": [
+    {
+     "inn": "Gibbs-White",
+     "ut": "Ødegaard"
+    },
+    {
+     "inn": "Gvardiol",
+     "ut": "Virgil"
+    }
+   ],
+   "chip": "Bench Boost",
+   "fornavn": "Thomas",
+   "gw_poeng": 2,
+   "har_beste_gw": false,
+   "har_verste_gw": false,
+   "kaptein": "Gibbs-White",
+   "lagnavn": "FCRobbers",
+   "trekk": 4,
+   "tropp": [
+    {
+     "kaptein": false,
+     "lag_kode": 1,
+     "motstander": [
+      "FUL (A)"
+     ],
+     "mult": 1,
+     "navn": "Lammens",
+     "poeng": 0,
+     "posisjon": 1,
+     "spilt": false,
+     "type": 1,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 6,
+     "motstander": [
+      "AVL (H)"
+     ],
+     "mult": 1,
+     "navn": "Van Hecke",
+     "poeng": 0,
+     "posisjon": 2,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 43,
+     "motstander": [
+      "SUN (H)"
+     ],
+     "mult": 1,
+     "navn": "Guéhi",
+     "poeng": 0,
+     "posisjon": 3,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 43,
+     "motstander": [
+      "SUN (H)"
+     ],
+     "mult": 1,
+     "navn": "Gvardiol",
+     "poeng": 0,
+     "posisjon": 4,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 8,
+     "motstander": null,
+     "mult": 1,
+     "navn": "Rogers",
+     "poeng": 1,
+     "posisjon": 5,
+     "spilt": true,
+     "type": 3,
+     "vise": true
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 1,
+     "motstander": [
+      "FUL (A)"
+     ],
+     "mult": 1,
+     "navn": "Mbeumo",
+     "poeng": 0,
+     "posisjon": 6,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 1,
+     "motstander": [
+      "FUL (A)"
+     ],
+     "mult": 1,
+     "navn": "B.Fernandes",
+     "poeng": 0,
+     "posisjon": 7,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": true,
+     "lag_kode": 17,
+     "motstander": [
+      "COV (H)"
+     ],
+     "mult": 2,
+     "navn": "Gibbs-White",
+     "poeng": 0,
+     "posisjon": 8,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 8,
+     "motstander": null,
+     "mult": 1,
+     "navn": "João Pedro",
+     "poeng": 0,
+     "posisjon": 9,
+     "spilt": false,
+     "type": 4,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 3,
+     "motstander": [
+      "BHA (A)"
+     ],
+     "mult": 1,
+     "navn": "Havertz",
+     "poeng": 0,
+     "posisjon": 10,
+     "spilt": false,
+     "type": 4,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 2,
+     "motstander": [
+      "CRY (H)"
+     ],
+     "mult": 1,
+     "navn": "Calvert-Lewin",
+     "poeng": 0,
+     "posisjon": 11,
+     "spilt": false,
+     "type": 4,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 54,
+     "motstander": [
+      "MUN (H)"
+     ],
+     "mult": 1,
+     "navn": "Leno",
+     "poeng": 0,
+     "posisjon": 12,
+     "spilt": false,
+     "type": 1,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 8,
+     "motstander": null,
+     "mult": 1,
+     "navn": "Lacroix",
+     "poeng": 1,
+     "posisjon": 13,
+     "spilt": true,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 3,
+     "motstander": [
+      "BHA (A)"
+     ],
+     "mult": 1,
+     "navn": "Calafiori",
+     "poeng": 0,
+     "posisjon": 14,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 94,
+     "motstander": null,
+     "mult": 1,
+     "navn": "M.Sangaré",
+     "poeng": 0,
+     "posisjon": 15,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    }
+   ],
+   "verste_gw_nr": 4
+  },
+  "7177288": {
+   "beste_gw_nr": 2,
+   "bytter": [],
+   "chip": null,
+   "fornavn": "Per Olav",
+   "gw_poeng": 1,
+   "har_beste_gw": false,
+   "har_verste_gw": true,
+   "kaptein": "Cunha",
+   "lagnavn": "50 Shade O'Shea",
+   "trekk": 0,
+   "tropp": [
+    {
+     "kaptein": false,
+     "lag_kode": 2,
+     "motstander": [
+      "CRY (H)"
+     ],
+     "mult": 1,
+     "navn": "Trafford",
+     "poeng": 0,
+     "posisjon": 1,
+     "spilt": false,
+     "type": 1,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 91,
+     "motstander": [
+      "LIV (H)"
+     ],
+     "mult": 1,
+     "navn": "Truffert",
+     "poeng": 0,
+     "posisjon": 2,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 43,
+     "motstander": [
+      "SUN (H)"
+     ],
+     "mult": 1,
+     "navn": "Guéhi",
+     "poeng": 0,
+     "posisjon": 3,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 3,
+     "motstander": [
+      "BHA (A)"
+     ],
+     "mult": 1,
+     "navn": "Gabriel",
+     "poeng": 0,
+     "posisjon": 4,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 94,
+     "motstander": null,
+     "mult": 1,
+     "navn": "Kayode",
+     "poeng": 1,
+     "posisjon": 5,
+     "spilt": true,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": true,
+     "lag_kode": 1,
+     "motstander": [
+      "FUL (A)"
+     ],
+     "mult": 2,
+     "navn": "Cunha",
+     "poeng": 0,
+     "posisjon": 6,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 14,
+     "motstander": [
+      "BOU (A)"
+     ],
+     "mult": 1,
+     "navn": "Szoboszlai",
+     "poeng": 0,
+     "posisjon": 7,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 1,
+     "motstander": [
+      "FUL (A)"
+     ],
+     "mult": 1,
+     "navn": "B.Fernandes",
+     "poeng": 0,
+     "posisjon": 8,
+     "spilt": false,
+     "type": 3,
+     "vise": true
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 3,
+     "motstander": [
+      "BHA (A)"
+     ],
+     "mult": 1,
+     "navn": "Tzolis",
+     "poeng": 0,
+     "posisjon": 9,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 8,
+     "motstander": null,
+     "mult": 1,
+     "navn": "João Pedro",
+     "poeng": 0,
+     "posisjon": 10,
+     "spilt": false,
+     "type": 4,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 4,
+     "motstander": [
+      "HUL (H)"
+     ],
+     "mult": 1,
+     "navn": "Wissa",
+     "poeng": 0,
+     "posisjon": 11,
+     "spilt": false,
+     "type": 4,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 91,
+     "motstander": [
+      "LIV (H)"
+     ],
+     "mult": 0,
+     "navn": "Petrović",
+     "poeng": 0,
+     "posisjon": 12,
+     "spilt": false,
+     "type": 1,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 56,
+     "motstander": [
+      "MCI (A)"
+     ],
+     "mult": 0,
+     "navn": "Meunier",
+     "poeng": 0,
+     "posisjon": 13,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 11,
+     "motstander": [
+      "IPS (H)"
+     ],
+     "mult": 0,
+     "navn": "Dewsbury-Hall",
+     "poeng": 0,
+     "posisjon": 14,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 94,
+     "motstander": null,
+     "mult": 0,
+     "navn": "Thiago",
+     "poeng": 1,
+     "posisjon": 15,
+     "spilt": true,
+     "type": 4,
+     "vise": false
+    }
+   ],
+   "verste_gw_nr": 3
+  },
+  "77191": {
+   "beste_gw_nr": 2,
+   "bytter": [],
+   "chip": null,
+   "fornavn": "Visar",
+   "gw_poeng": 2,
+   "har_beste_gw": true,
+   "har_verste_gw": false,
+   "kaptein": "Haaland",
+   "lagnavn": "Vizzards",
+   "trekk": 0,
+   "tropp": [
+    {
+     "kaptein": false,
+     "lag_kode": 6,
+     "motstander": [
+      "AVL (H)"
+     ],
+     "mult": 1,
+     "navn": "Kinsky",
+     "poeng": 0,
+     "posisjon": 1,
+     "spilt": false,
+     "type": 1,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 3,
+     "motstander": [
+      "BHA (A)"
+     ],
+     "mult": 1,
+     "navn": "Konsa",
+     "poeng": 0,
+     "posisjon": 2,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 3,
+     "motstander": [
+      "BHA (A)"
+     ],
+     "mult": 1,
+     "navn": "Calafiori",
+     "poeng": 0,
+     "posisjon": 3,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 2,
+     "motstander": [
+      "CRY (H)"
+     ],
+     "mult": 1,
+     "navn": "Muharemović",
+     "poeng": 0,
+     "posisjon": 4,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 8,
+     "motstander": null,
+     "mult": 1,
+     "navn": "Palmer",
+     "poeng": 1,
+     "posisjon": 5,
+     "spilt": true,
+     "type": 3,
+     "vise": true
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 14,
+     "motstander": [
+      "BOU (A)"
+     ],
+     "mult": 1,
+     "navn": "Szoboszlai",
+     "poeng": 0,
+     "posisjon": 6,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 8,
+     "motstander": null,
+     "mult": 1,
+     "navn": "Rogers",
+     "poeng": 1,
+     "posisjon": 7,
+     "spilt": true,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 3,
+     "motstander": [
+      "BHA (A)"
+     ],
+     "mult": 1,
+     "navn": "Saka",
+     "poeng": 0,
+     "posisjon": 8,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 8,
+     "motstander": null,
+     "mult": 1,
+     "navn": "João Pedro",
+     "poeng": 0,
+     "posisjon": 9,
+     "spilt": false,
+     "type": 4,
+     "vise": false
+    },
+    {
+     "kaptein": true,
+     "lag_kode": 43,
+     "motstander": [
+      "SUN (H)"
+     ],
+     "mult": 2,
+     "navn": "Haaland",
+     "poeng": 0,
+     "posisjon": 10,
+     "spilt": false,
+     "type": 4,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 11,
+     "motstander": [
+      "IPS (H)"
+     ],
+     "mult": 1,
+     "navn": "Barry",
+     "poeng": 0,
+     "posisjon": 11,
+     "spilt": false,
+     "type": 4,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 9,
+     "motstander": [
+      "NFO (A)"
+     ],
+     "mult": 0,
+     "navn": "Bentley",
+     "poeng": 0,
+     "posisjon": 12,
+     "spilt": false,
+     "type": 1,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 36,
+     "motstander": [
+      "ARS (H)"
+     ],
+     "mult": 0,
+     "navn": "Gomez",
+     "poeng": 0,
+     "posisjon": 13,
+     "spilt": false,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 36,
+     "motstander": [
+      "ARS (H)"
+     ],
+     "mult": 0,
+     "navn": "De Cuyper",
+     "poeng": 0,
+     "posisjon": 14,
+     "spilt": false,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 94,
+     "motstander": null,
+     "mult": 0,
+     "navn": "Kayode",
+     "poeng": 1,
+     "posisjon": 15,
+     "spilt": true,
+     "type": 2,
+     "vise": false
+    }
+   ],
+   "verste_gw_nr": 3
+  }
+ },
+ "ferdig": false,
+ "gw": 5
+}
