@@ -161,9 +161,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "AVL (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Dubravka",
      "poeng": 0,
@@ -425,9 +423,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "AVL (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Dubravka",
      "poeng": 0,
@@ -975,14 +971,12 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "AVL (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Pedro Porro",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 15,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     }
@@ -999,7 +993,7 @@
    ],
    "chip": null,
    "fornavn": "Tobias",
-   "gw_poeng": 0,
+   "gw_poeng": 2,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1023,14 +1017,12 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "AVL (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Van de Ven",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 2,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1163,9 +1155,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "AVL (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Dubravka",
      "poeng": 0,
@@ -1205,9 +1195,7 @@
     {
      "kaptein": false,
      "lag_kode": 7,
-     "motstander": [
-      "TOT (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "A.García",
      "poeng": 0,
@@ -1229,7 +1217,7 @@
    ],
    "chip": null,
    "fornavn": "Erik",
-   "gw_poeng": 0,
+   "gw_poeng": 3,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1239,14 +1227,12 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "AVL (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Kinsky",
-     "poeng": 0,
+     "poeng": 3,
      "posisjon": 1,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -1459,7 +1445,7 @@
    ],
    "chip": "Bench Boost",
    "fornavn": "Thomas",
-   "gw_poeng": 5,
+   "gw_poeng": 6,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Gibbs-White",
@@ -1483,14 +1469,12 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "AVL (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Van Hecke",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 2,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1895,7 +1879,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Visar",
-   "gw_poeng": 4,
+   "gw_poeng": 7,
    "har_beste_gw": true,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1905,14 +1889,12 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "AVL (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Kinsky",
-     "poeng": 0,
+     "poeng": 3,
      "posisjon": 1,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
