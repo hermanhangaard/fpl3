@@ -5,7 +5,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Hans Christian",
-   "gw_poeng": 18,
+   "gw_poeng": 19,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -18,7 +18,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Verbruggen",
-     "poeng": 6,
+     "poeng": 7,
      "posisjon": 1,
      "spilt": true,
      "type": 1,
@@ -187,14 +187,12 @@
     {
      "kaptein": false,
      "lag_kode": 9,
-     "motstander": [
-      "NFO (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Thomas",
-     "poeng": 0,
+     "poeng": 9,
      "posisjon": 15,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     }
@@ -247,7 +245,7 @@
    ],
    "chip": "Wildcard",
    "fornavn": "Magnus Nordby",
-   "gw_poeng": 21,
+   "gw_poeng": 23,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -321,14 +319,12 @@
     {
      "kaptein": false,
      "lag_kode": 17,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Gibbs-White",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 6,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": true
     },
@@ -515,7 +511,7 @@
    ],
    "chip": "Free Hit",
    "fornavn": "Morten",
-   "gw_poeng": 25,
+   "gw_poeng": 31,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -589,28 +585,24 @@
     {
      "kaptein": false,
      "lag_kode": 17,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Murillo",
-     "poeng": 0,
+     "poeng": 4,
      "posisjon": 6,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 17,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Gibbs-White",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -685,14 +677,12 @@
     {
      "kaptein": false,
      "lag_kode": 17,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Igor Jesus",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 13,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -1314,7 +1304,7 @@
      "motstander": null,
      "mult": 0,
      "navn": "Verbruggen",
-     "poeng": 6,
+     "poeng": 7,
      "posisjon": 12,
      "spilt": true,
      "type": 1,
@@ -1375,7 +1365,7 @@
    ],
    "chip": "Bench Boost",
    "fornavn": "Thomas",
-   "gw_poeng": 14,
+   "gw_poeng": 18,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Gibbs-White",
@@ -1479,14 +1469,12 @@
     {
      "kaptein": true,
      "lag_kode": 17,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 2,
      "navn": "Gibbs-White",
-     "poeng": 0,
+     "poeng": 4,
      "posisjon": 8,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1945,9 +1933,7 @@
     {
      "kaptein": false,
      "lag_kode": 9,
-     "motstander": [
-      "NFO (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Bentley",
      "poeng": 0,
