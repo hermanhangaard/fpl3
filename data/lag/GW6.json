@@ -217,7 +217,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Magnus Nordby",
-   "gw_poeng": 39,
+   "gw_poeng": 42,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Groß",
@@ -227,14 +227,12 @@
     {
      "kaptein": false,
      "lag_kode": 88,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Tzolakis",
-     "poeng": 0,
+     "poeng": 3,
      "posisjon": 1,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -291,14 +289,12 @@
     {
      "kaptein": false,
      "lag_kode": 17,
-     "motstander": [
-      "CRY (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Gibbs-White",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 6,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -393,14 +389,12 @@
     {
      "kaptein": false,
      "lag_kode": 88,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Ajayi",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 14,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -429,7 +423,7 @@
    ],
    "chip": null,
    "fornavn": "Morten",
-   "gw_poeng": 63,
+   "gw_poeng": 72,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Rogers",
@@ -451,14 +445,12 @@
     {
      "kaptein": false,
      "lag_kode": 31,
-     "motstander": [
-      "NFO (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Mitchell",
-     "poeng": 0,
+     "poeng": 4,
      "posisjon": 2,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -513,14 +505,12 @@
     {
      "kaptein": false,
      "lag_kode": 31,
-     "motstander": [
-      "NFO (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Kamada",
-     "poeng": 0,
+     "poeng": 7,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -675,7 +665,7 @@
    ],
    "chip": "Wildcard",
    "fornavn": "Arif",
-   "gw_poeng": 36,
+   "gw_poeng": 40,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Saka",
@@ -697,14 +687,12 @@
     {
      "kaptein": false,
      "lag_kode": 11,
-     "motstander": [
-      "HUL (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Tarkowski",
-     "poeng": 0,
+     "poeng": 4,
      "posisjon": 2,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -737,14 +725,12 @@
     {
      "kaptein": false,
      "lag_kode": 17,
-     "motstander": [
-      "CRY (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Gibbs-White",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 5,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1052,9 +1038,7 @@
     {
      "kaptein": false,
      "lag_kode": 31,
-     "motstander": [
-      "NFO (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Hughes",
      "poeng": 0,
@@ -1300,7 +1284,7 @@
    ],
    "chip": null,
    "fornavn": "Thomas",
-   "gw_poeng": 45,
+   "gw_poeng": 46,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Kostoulas",
@@ -1396,14 +1380,12 @@
     {
      "kaptein": false,
      "lag_kode": 17,
-     "motstander": [
-      "CRY (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Gibbs-White",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 8,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1673,14 +1655,12 @@
     {
      "kaptein": false,
      "lag_kode": 11,
-     "motstander": [
-      "HUL (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Dewsbury-Hall",
-     "poeng": 0,
+     "poeng": 10,
      "posisjon": 14,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1704,7 +1684,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Visar",
-   "gw_poeng": 69,
+   "gw_poeng": 70,
    "har_beste_gw": true,
    "har_verste_gw": false,
    "kaptein": "Saka",
@@ -1836,14 +1816,12 @@
     {
      "kaptein": false,
      "lag_kode": 11,
-     "motstander": [
-      "HUL (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Barry",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 11,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
