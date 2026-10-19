@@ -147,9 +147,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Dubravka",
      "poeng": 0,
@@ -185,14 +183,12 @@
     {
      "kaptein": false,
      "lag_kode": 9,
-     "motstander": [
-      "TOT (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Thomas",
-     "poeng": 0,
+     "poeng": 3,
      "posisjon": 15,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     }
@@ -351,9 +347,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Dubravka",
      "poeng": 0,
@@ -803,14 +797,14 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 3
+   "verste_gw_nr": 7
   },
   "3636759": {
    "beste_gw_nr": 2,
    "bytter": [],
    "chip": null,
    "fornavn": "Tobias",
-   "gw_poeng": 75,
+   "gw_poeng": 77,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -832,14 +826,12 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Van de Ven",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 2,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -954,9 +946,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Dubravka",
      "poeng": 0,
@@ -1014,7 +1004,7 @@
    ],
    "chip": null,
    "fornavn": "Erik",
-   "gw_poeng": 58,
+   "gw_poeng": 60,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1024,14 +1014,12 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Kinsky",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 1,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -1220,7 +1208,7 @@
    ],
    "chip": null,
    "fornavn": "Thomas",
-   "gw_poeng": 50,
+   "gw_poeng": 54,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Groß",
@@ -1254,14 +1242,12 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Van Hecke",
-     "poeng": 0,
+     "poeng": 4,
      "posisjon": 3,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1605,7 +1591,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 3
+   "verste_gw_nr": 7
   },
   "77191": {
    "beste_gw_nr": 2,
@@ -1617,7 +1603,7 @@
    ],
    "chip": null,
    "fornavn": "Visar",
-   "gw_poeng": 63,
+   "gw_poeng": 65,
    "har_beste_gw": true,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1627,14 +1613,12 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Kinsky",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 1,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -1761,9 +1745,7 @@
     {
      "kaptein": false,
      "lag_kode": 9,
-     "motstander": [
-      "TOT (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Bentley",
      "poeng": 0,
