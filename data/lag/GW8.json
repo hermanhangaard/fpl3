@@ -198,7 +198,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 3
+   "verste_gw_nr": 8
   },
   "2774131": {
    "beste_gw_nr": 2,
@@ -214,9 +214,9 @@
    ],
    "chip": null,
    "fornavn": "Magnus Nordby",
-   "gw_poeng": 20,
+   "gw_poeng": 23,
    "har_beste_gw": false,
-   "har_verste_gw": false,
+   "har_verste_gw": true,
    "kaptein": "João Pedro",
    "lagnavn": "United Forever❤️⚽️",
    "trekk": 0,
@@ -251,7 +251,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Bogle",
-     "poeng": 2,
+     "poeng": 5,
      "posisjon": 3,
      "spilt": true,
      "type": 2,
@@ -395,14 +395,14 @@
      "motstander": null,
      "mult": 0,
      "navn": "Calvert-Lewin",
-     "poeng": 1,
+     "poeng": 2,
      "posisjon": 15,
      "spilt": true,
      "type": 4,
      "vise": false
     }
    ],
-   "verste_gw_nr": 5
+   "verste_gw_nr": 8
   },
   "314055": {
    "beste_gw_nr": 2,
@@ -609,7 +609,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Arif",
-   "gw_poeng": 21,
+   "gw_poeng": 31,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Muharemović",
@@ -658,7 +658,7 @@
      "motstander": null,
      "mult": 2,
      "navn": "Muharemović",
-     "poeng": 8,
+     "poeng": 18,
      "posisjon": 4,
      "spilt": true,
      "type": 2,
@@ -778,7 +778,7 @@
      "motstander": null,
      "mult": 0,
      "navn": "O'Nien",
-     "poeng": 1,
+     "poeng": 9,
      "posisjon": 14,
      "spilt": true,
      "type": 2,
@@ -797,7 +797,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 7
+   "verste_gw_nr": 8
   },
   "3636759": {
    "beste_gw_nr": 2,
@@ -1017,7 +1017,7 @@
    ],
    "chip": null,
    "fornavn": "Erik",
-   "gw_poeng": 30,
+   "gw_poeng": 35,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1078,7 +1078,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Muharemović",
-     "poeng": 4,
+     "poeng": 9,
      "posisjon": 5,
      "spilt": true,
      "type": 2,
@@ -1205,7 +1205,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 5
+   "verste_gw_nr": 8
   },
   "6259629": {
    "beste_gw_nr": 2,
@@ -1424,9 +1424,9 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Per Olav",
-   "gw_poeng": 38,
+   "gw_poeng": 44,
    "har_beste_gw": false,
-   "har_verste_gw": true,
+   "har_verste_gw": false,
    "kaptein": "Cunha",
    "lagnavn": "50 Shade O'Shea",
    "trekk": 0,
@@ -1437,7 +1437,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Trafford",
-     "poeng": 4,
+     "poeng": 10,
      "posisjon": 1,
      "spilt": true,
      "type": 1,
@@ -1628,7 +1628,7 @@
    ],
    "chip": null,
    "fornavn": "Visar",
-   "gw_poeng": 42,
+   "gw_poeng": 47,
    "har_beste_gw": true,
    "har_verste_gw": false,
    "kaptein": "Palmer",
@@ -1677,7 +1677,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Muharemović",
-     "poeng": 4,
+     "poeng": 9,
      "posisjon": 4,
      "spilt": true,
      "type": 2,
