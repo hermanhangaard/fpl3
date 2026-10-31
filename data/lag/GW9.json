@@ -10,7 +10,7 @@
    ],
    "chip": null,
    "fornavn": "Hans Christian",
-   "gw_poeng": 34,
+   "gw_poeng": 43,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -134,14 +134,12 @@
     {
      "kaptein": false,
      "lag_kode": 7,
-     "motstander": [
-      "FUL (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "N.Jackson",
-     "poeng": 0,
+     "poeng": 9,
      "posisjon": 10,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -174,14 +172,12 @@
     {
      "kaptein": false,
      "lag_kode": 54,
-     "motstander": [
-      "AVL (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "King",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 13,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -434,7 +430,7 @@
    ],
    "chip": null,
    "fornavn": "Morten",
-   "gw_poeng": 24,
+   "gw_poeng": 44,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "N.Jackson",
@@ -444,14 +440,12 @@
     {
      "kaptein": false,
      "lag_kode": 54,
-     "motstander": [
-      "AVL (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Leno",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 1,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -560,14 +554,12 @@
     {
      "kaptein": true,
      "lag_kode": 7,
-     "motstander": [
-      "FUL (H)"
-     ],
+     "motstander": null,
      "mult": 2,
      "navn": "N.Jackson",
-     "poeng": 0,
+     "poeng": 18,
      "posisjon": 10,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -863,7 +855,7 @@
    ],
    "chip": "Free Hit",
    "fornavn": "Tobias",
-   "gw_poeng": 26,
+   "gw_poeng": 40,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -999,14 +991,12 @@
     {
      "kaptein": false,
      "lag_kode": 7,
-     "motstander": [
-      "FUL (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "N.Jackson",
-     "poeng": 0,
+     "poeng": 9,
      "posisjon": 11,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -1071,7 +1061,7 @@
    ],
    "chip": null,
    "fornavn": "Erik",
-   "gw_poeng": 35,
+   "gw_poeng": 55,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "N.Jackson",
@@ -1193,28 +1183,24 @@
     {
      "kaptein": true,
      "lag_kode": 7,
-     "motstander": [
-      "FUL (H)"
-     ],
+     "motstander": null,
      "mult": 2,
      "navn": "N.Jackson",
-     "poeng": 0,
+     "poeng": 18,
      "posisjon": 10,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 54,
-     "motstander": [
-      "AVL (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Gonzalo",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 11,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -1283,7 +1269,7 @@
    ],
    "chip": null,
    "fornavn": "Thomas",
-   "gw_poeng": 29,
+   "gw_poeng": 54,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1293,14 +1279,12 @@
     {
      "kaptein": false,
      "lag_kode": 54,
-     "motstander": [
-      "AVL (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Leno",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 1,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -1336,7 +1320,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Van Hecke",
-     "poeng": 6,
+     "poeng": 15,
      "posisjon": 4,
      "spilt": true,
      "type": 2,
@@ -1417,14 +1401,12 @@
     {
      "kaptein": false,
      "lag_kode": 7,
-     "motstander": [
-      "FUL (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "N.Jackson",
-     "poeng": 0,
+     "poeng": 9,
      "posisjon": 11,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -1698,7 +1680,7 @@
    ],
    "chip": null,
    "fornavn": "Visar",
-   "gw_poeng": 35,
+   "gw_poeng": 44,
    "har_beste_gw": true,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1806,14 +1788,12 @@
     {
      "kaptein": false,
      "lag_kode": 7,
-     "motstander": [
-      "FUL (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "N.Jackson",
-     "poeng": 0,
+     "poeng": 9,
      "posisjon": 9,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
