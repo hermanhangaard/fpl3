@@ -44,9 +44,7 @@
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Thiaw",
      "poeng": 0,
@@ -789,19 +787,17 @@
     {
      "kaptein": false,
      "lag_kode": 11,
-     "motstander": [
-      "NEW (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Tarkowski",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 15,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     }
    ],
-   "verste_gw_nr": 8
+   "verste_gw_nr": 9
   },
   "3636759": {
    "beste_gw_nr": 2,
@@ -829,7 +825,7 @@
    ],
    "chip": "Free Hit",
    "fornavn": "Tobias",
-   "gw_poeng": 51,
+   "gw_poeng": 53,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -851,14 +847,12 @@
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Hall",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 2,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1430,7 +1424,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Per Olav",
-   "gw_poeng": 29,
+   "gw_poeng": 30,
    "har_beste_gw": false,
    "har_verste_gw": true,
    "kaptein": "Cunha",
@@ -1560,14 +1554,12 @@
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Wissa",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 11,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -1598,14 +1590,12 @@
     {
      "kaptein": false,
      "lag_kode": 11,
-     "motstander": [
-      "NEW (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Dewsbury-Hall",
-     "poeng": 0,
+     "poeng": 4,
      "posisjon": 14,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1638,7 +1628,7 @@
    ],
    "chip": null,
    "fornavn": "Visar",
-   "gw_poeng": 54,
+   "gw_poeng": 63,
    "har_beste_gw": true,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1756,14 +1746,12 @@
     {
      "kaptein": false,
      "lag_kode": 11,
-     "motstander": [
-      "NEW (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Barry",
-     "poeng": 0,
+     "poeng": 9,
      "posisjon": 10,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
