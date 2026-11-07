@@ -169,9 +169,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "LEE (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Dubravka",
      "poeng": 0,
@@ -409,9 +407,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "LEE (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Dubravka",
      "poeng": 0,
@@ -423,14 +419,12 @@
     {
      "kaptein": false,
      "lag_kode": 2,
-     "motstander": [
-      "TOT (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Bogle",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 13,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -700,7 +694,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Arif",
-   "gw_poeng": 0,
+   "gw_poeng": 2,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Muharemović",
@@ -752,14 +746,12 @@
     {
      "kaptein": true,
      "lag_kode": 2,
-     "motstander": [
-      "TOT (H)"
-     ],
+     "motstander": null,
      "mult": 2,
      "navn": "Muharemović",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 4,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -864,9 +856,7 @@
     {
      "kaptein": false,
      "lag_kode": 2,
-     "motstander": [
-      "TOT (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Zetterer",
      "poeng": 0,
@@ -1092,9 +1082,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "LEE (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Dubravka",
      "poeng": 0,
@@ -1153,7 +1141,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Erik",
-   "gw_poeng": 0,
+   "gw_poeng": 1,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "N.Jackson",
@@ -1219,14 +1207,12 @@
     {
      "kaptein": false,
      "lag_kode": 2,
-     "motstander": [
-      "TOT (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Muharemović",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 5,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": true
     },
@@ -1317,14 +1303,12 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "LEE (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Kinsky",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 12,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -1378,7 +1362,7 @@
    "bytter": [],
    "chip": "Triple Captain",
    "fornavn": "Thomas",
-   "gw_poeng": 0,
+   "gw_poeng": 1,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1430,14 +1414,12 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "LEE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Van Hecke",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 4,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1603,7 +1585,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Per Olav",
-   "gw_poeng": 0,
+   "gw_poeng": 1,
    "har_beste_gw": false,
    "har_verste_gw": true,
    "kaptein": "Cunha",
@@ -1613,14 +1595,12 @@
     {
      "kaptein": false,
      "lag_kode": 2,
-     "motstander": [
-      "TOT (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Trafford",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 1,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -2019,14 +1999,12 @@
     {
      "kaptein": false,
      "lag_kode": 2,
-     "motstander": [
-      "TOT (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Muharemović",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 14,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
