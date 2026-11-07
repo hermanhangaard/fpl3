@@ -197,9 +197,7 @@
     {
      "kaptein": false,
      "lag_kode": 9,
-     "motstander": [
-      "EVE (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Thomas",
      "poeng": 0,
@@ -908,14 +906,12 @@
     {
      "kaptein": false,
      "lag_kode": 11,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Tarkowski",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 15,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     }
@@ -1799,14 +1795,12 @@
     {
      "kaptein": false,
      "lag_kode": 11,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Dewsbury-Hall",
-     "poeng": 0,
+     "poeng": 9,
      "posisjon": 14,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1837,7 +1831,7 @@
    ],
    "chip": null,
    "fornavn": "Visar",
-   "gw_poeng": 0,
+   "gw_poeng": 16,
    "har_beste_gw": true,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1973,14 +1967,12 @@
     {
      "kaptein": false,
      "lag_kode": 11,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Barry",
-     "poeng": 0,
+     "poeng": 16,
      "posisjon": 10,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -2001,9 +1993,7 @@
     {
      "kaptein": false,
      "lag_kode": 9,
-     "motstander": [
-      "EVE (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Bentley",
      "poeng": 0,
