@@ -198,7 +198,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 3
+   "verste_gw_nr": 11
   },
   "2774131": {
    "beste_gw_nr": 2,
@@ -368,14 +368,12 @@
     {
      "kaptein": false,
      "lag_kode": 94,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Schade",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 13,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -604,7 +602,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 1
+   "verste_gw_nr": 11
   },
   "3571282": {
    "beste_gw_nr": 2,
@@ -613,7 +611,7 @@
    "fornavn": "Arif",
    "gw_poeng": 21,
    "har_beste_gw": false,
-   "har_verste_gw": false,
+   "har_verste_gw": true,
    "kaptein": "Muharemović",
    "lagnavn": "Arsenal4life",
    "trekk": 0,
@@ -789,19 +787,17 @@
     {
      "kaptein": false,
      "lag_kode": 11,
-     "motstander": [
-      "BRE (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Tarkowski",
-     "poeng": 0,
+     "poeng": -4,
      "posisjon": 15,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     }
    ],
-   "verste_gw_nr": 9
+   "verste_gw_nr": 11
   },
   "3636759": {
    "beste_gw_nr": 2,
@@ -996,7 +992,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 1
+   "verste_gw_nr": 11
   },
   "4890080": {
    "beste_gw_nr": 2,
@@ -1169,14 +1165,12 @@
     {
      "kaptein": false,
      "lag_kode": 94,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "M.Sangaré",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 14,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1193,7 +1187,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 8
+   "verste_gw_nr": 11
   },
   "6259629": {
    "beste_gw_nr": 2,
@@ -1404,9 +1398,9 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Per Olav",
-   "gw_poeng": 26,
+   "gw_poeng": 32,
    "har_beste_gw": false,
-   "har_verste_gw": true,
+   "har_verste_gw": false,
    "kaptein": "Cunha",
    "lagnavn": "50 Shade O'Shea",
    "trekk": 0,
@@ -1462,14 +1456,12 @@
     {
      "kaptein": false,
      "lag_kode": 94,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Kayode",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 5,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1572,23 +1564,19 @@
     {
      "kaptein": false,
      "lag_kode": 11,
-     "motstander": [
-      "BRE (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Dewsbury-Hall",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 14,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 94,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Thiago",
      "poeng": 0,
@@ -1605,7 +1593,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Visar",
-   "gw_poeng": 30,
+   "gw_poeng": 32,
    "har_beste_gw": true,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1711,14 +1699,12 @@
     {
      "kaptein": false,
      "lag_kode": 11,
-     "motstander": [
-      "BRE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Barry",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 9,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -1773,14 +1759,12 @@
     {
      "kaptein": false,
      "lag_kode": 94,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Kayode",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 14,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1797,7 +1781,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 5
+   "verste_gw_nr": 11
   }
  },
  "ferdig": false,
